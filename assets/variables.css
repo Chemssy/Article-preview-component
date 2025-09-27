@@ -1,0 +1,10 @@
+@import url(./fonts/fonts.css);
+:root {
+    --White    : #fff;
+    --Grey-900 : #48556a;
+    --Grey-500 : #6e8098;
+    --Grey-400 : #9daec2;
+    --Grey-200 : #ecf2f8;
+
+    --Manrope  : 'Manrope',sans-serif;
+}
